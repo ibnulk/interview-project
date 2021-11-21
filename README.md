@@ -1,4 +1,4 @@
-# interview-project
+# Sample Transaction Charge Calculation
 
 Run the following command to see output
 
